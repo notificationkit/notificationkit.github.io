@@ -1,0 +1,168 @@
+@charset "UTF-8";
+
+@import "base.css";
+
+
+/* hero */
+#hero {
+	text-align:center;
+}
+
+/* call-to-action */
+#call-to-action {
+	width:980px;
+	padding:35px 0 5px 0;
+	margin:0 auto;
+	text-align:center;
+}
+#call-to-action h2 {
+	font-size:1.0em;
+	font-weight:normal;
+	padding:0 0 70px 0;
+	margin:0 auto;
+	font-size:1.2em;
+	line-height:1.8em;
+	background:url(../images/call-to-action.png) no-repeat center bottom;
+}
+#call-to-action p {
+	margin:8px auto 0 auto;
+}
+
+/* matters */
+#matters {
+	width:980px;
+	margin:0 auto;
+	padding:15px 0;
+}
+#matters .item {
+	width:820px;
+	padding:35px 60px;
+	-webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+	-webkit-box-shadow: 0px 0px 10px #666;
+    -moz-box-shadow: 0px 0px 10px #666;
+    box-shadow: 0px 0px 8px #979797;
+	background:#FFFFFF;
+	margin:40px auto;
+}
+#matters .item h3 {
+	padding:0 0 10px 30px;
+	background:url(../images/item_list.gif) no-repeat 0 12px;
+	font-size:1.5em;
+	font-weight:bold;
+}
+#matters .item img {
+	padding:0 0 5px 10px;
+}
+#matters .item p {
+	width:820px;
+	margin:0 auto;
+}
+#matters .item .sub_list {
+	width:820px;
+	margin:0 auto;
+}
+#matters .item .sub_list dt {
+	padding:10px 0 5px 0;
+}
+#matters .item .sub_list li {
+	background:url(../images/sub_list.gif) no-repeat 0 12px;
+	padding:2px 0 5px 20px;
+}
+#matters .item .link {
+	background:url(../images/link.gif) no-repeat 0 7px;
+	padding:3px 0 3px 30px;
+	font-size:XXem;
+}
+
+/* tutorial */
+#tutorial {
+	background:#FFFFFF;
+}
+#tutorial .tutorial-inner {
+	width:940px;
+	margin:0 auto;
+	padding:10px 0;
+}
+#tutorial h2 {
+	font-size:1.7em;
+	font-weight:bold;
+	padding:45px 0;
+}
+#tutorial li {
+	width:940px;
+	height:120px;
+	position:relative;
+	font-size:1.0em;
+}
+#tutorial .next {
+	background:url(../images/next_bg.gif) no-repeat center bottom;
+	padding-bottom:60px;	
+}
+#tutorial .last {
+	border-bottom:1px solid #d9d9d9;
+}
+
+#tutorial h3 {
+	width:145px;
+	position:absolute;
+	top:0;
+}
+#tutorial .detail {
+	width:555px;
+	font-size:1.0em;
+	position:absolute;
+	top:0;
+	left:145px;
+}
+#tutorial .space1 {
+	padding:25px 0 20px 0;
+}
+#tutorial .space2 {
+	padding:10px 0 20px 0;
+}
+#tutorial .space3 {
+	padding:45px 0 20px 0;
+}
+#tutorial .detail .sub {
+	font-size:0.9em;
+}
+#tutorial .detail .point {
+	font-weight:bold;
+}
+#tutorial .link {
+	width:240px;
+	padding:25px 0 20px 0;
+	position:absolute;
+	top:0;
+	left:700px;
+}
+
+/* footer */
+#footer {
+	width:940px;
+	margin:30px auto;
+}
+#footer p {
+	text-align:right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
